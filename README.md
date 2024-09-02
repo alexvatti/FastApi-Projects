@@ -1,6 +1,6 @@
 # FastApi-Projects
 
-# Installin For Amazon Linux 2
+# Install - For Amazon Linux 2
 sudo yum update -y    
 sudo yum install python3-pip -y  
 sudo yum install git -y
