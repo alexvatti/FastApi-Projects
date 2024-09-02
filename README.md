@@ -14,7 +14,9 @@ pip install fastapi uvicorn
 4.  uvicorn main:app --host 0.0.0.0 --port 8000
 
 # App Testing
-<Public IP>:8000/docs#/
+-  <Public IP>:8000/docs#/
 
 ## Example
 http://13.201.22.217:8000/docs#/
+
+![](fastapi-image.png)
